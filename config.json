@@ -1,13 +1,13 @@
 {
-    "token": "",
+    "token": "MTI3MjU2MTE4NDM1MTk3NzU0Mw.G9sk1o.m9fEAdjrP9jVdkcJGI6X0fo-XhqwXRwiaHgkP8",
     "language": "en",
-    "prefix": "!",
+    "prefix": "$",
     "mongodbUri": "",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": false,
+        "hentai": true,
         "lavalink": false,
         "troll": true
     },
